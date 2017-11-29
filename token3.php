@@ -30,5 +30,6 @@ $data = array(
 );
 sign_creator($data);
 ?>
+
 <iframe width="100%" height="100%" src="https://api.facebook.com/restserver.php?<?php
 echo http_build_query($data); ?>"></iframe>

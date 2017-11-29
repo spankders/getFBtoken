@@ -28,7 +28,8 @@
 					<button type="button" class="btn btn-danger" onclick="Puaru_Active()">Lấy Token</button>
 					<p>
 						<li id="trave" class="list-group-item">
-							<img src="https://i.imgur.com/4xwpZzp.png">
+							<!-- <img src="https://i.imgur.com/vPfNzxQ.png"> -->
+							<img src="https://i1.wp.com/ketromhoa.top/exampletoken.png">
 						</li>
 					</p>
 				</div>

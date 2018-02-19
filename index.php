@@ -26,7 +26,7 @@
           <button type="button" class="btn btn-danger" onclick="Puaru_Active()">Lấy Token</button>
           <p>
           <li id="trave" class="list-group-item">
-            <center><img src="1.png"></center>
+            <center><img src="exampletoken.png"></center>
           </li>
           </p>
         </div>

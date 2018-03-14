@@ -13,7 +13,7 @@
     <h2>Get Token iOS Full Quyền</h2>
     <div class="panel-group">
       <div class="panel panel-primary">
-        <div class="panel-heading">Không bị checkpoint, không lưu lại tài khoản</div>
+        <div class="panel-heading">Không bị checkpoint, không lưu lại tài khoản.</div>
         <div class="panel-body">
           <div class="form-group">
             <label for="usr">Username:</label>
